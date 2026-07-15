@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm a Security Automation Specialist 👋
 
-<!--
-**Mrrichards178/Mrrichards178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my cybersecurity engineering portfolio. Below are automated, production-capable utilities built to audit infrastructure availability and perform service vulnerability enumeration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Operational Core Projects
+
+### 📁 1. [Network Recon Compliance Logger](https://github.com)
+* **Objective:** Automated host availability auditing and persistent logging.
+* **Technical Focus:** ICMP network interface validation, file system input/output parsing, deterministic system timestamp tracking.
+* **Language:** Python 3
+
+### 📁 2. [Multi-Threaded Service Banner Grabber](https://github.com)
+* **Objective:** High-performance TCP socket enumeration and signature grabbing.
+* **Technical Focus:** Concurrency (`ThreadPoolExecutor`), multi-threaded port sweeping, network socket handshaking, service identification.
+* **Language:** Python 3
+
+---
+*Connect with me to talk security automation, system engineering, and Linux infrastructure tuning.*
